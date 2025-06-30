@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    color: teal;
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  li {
+    background-color: #f0f8ff;
+    border: 1px solid #ddd;
+    padding: 12px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    text-align: center;
+    font-size: 1.2rem;
+    transition: background-color 0.3s ease;
+  }
+  
+  li:hover {
+    background-color: #e0f0ff;
+    cursor: pointer;
+  }
+  
